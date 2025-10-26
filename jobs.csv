@@ -1,0 +1,5 @@
+job_title,company_name,location,experience,salary,skills,description,apply_link
+Software Engineer,Google,Bangalore,India (Hybrid),0-2 years,₹10-15 LPA,"Python, SQL, Cloud","Develop backend systems, optimize performance.",https://careers.google.com
+ML Engineer,Amazon,Remote,3+ years,$80k - $120k,"Python, Machine Learning, NLP","Develop ML models and deploy at scale.",https://www.amazon.jobs
+Data Analyst,Microsoft,Hyderabad,India (Onsite),1-3 years,₹8-12 LPA,"SQL, Tableau, Power BI","Analyze data, create dashboards.",https://careers.microsoft.com
+Frontend Developer,Netflix,California,USA (Onsite),3-5 years,$100k - $150k,"React, Redux, JavaScript","Develop UI components for web applications.",https://jobs.netflix.com
